@@ -1,0 +1,10 @@
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\bin\Debug\netcoreapp2.0\SQLite.dll.config
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\bin\Debug\netcoreapp2.0\SQLite.deps.json
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\bin\Debug\netcoreapp2.0\SQLite.dll
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\bin\Debug\netcoreapp2.0\SQLite.pdb
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.dll.config
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.csproj.CoreCompileInputs.cache
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.AssemblyInfoInputs.cache
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.AssemblyInfo.cs
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.dll
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SQLite\obj\Debug\netcoreapp2.0\SQLite.pdb

@@ -1,0 +1,10 @@
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\bin\Debug\netcoreapp2.0\SnoreAwayCore.deps.json
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\bin\Debug\netcoreapp2.0\SnoreAwayCore.runtimeconfig.json
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\bin\Debug\netcoreapp2.0\SnoreAwayCore.runtimeconfig.dev.json
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\bin\Debug\netcoreapp2.0\SnoreAwayCore.dll
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\bin\Debug\netcoreapp2.0\SnoreAwayCore.pdb
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\obj\Debug\netcoreapp2.0\SnoreAwayCore.csproj.CoreCompileInputs.cache
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\obj\Debug\netcoreapp2.0\SnoreAwayCore.AssemblyInfoInputs.cache
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\obj\Debug\netcoreapp2.0\SnoreAwayCore.AssemblyInfo.cs
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\obj\Debug\netcoreapp2.0\SnoreAwayCore.dll
+C:\MindSumo\SnoreAway\Web\SnoreAwayWeb\SnoreAwayCore\obj\Debug\netcoreapp2.0\SnoreAwayCore.pdb
